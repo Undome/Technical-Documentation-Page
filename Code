@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<style>
+			.main-section {
+			}
+		</style>
+	</head>
+	<body>
+		<nav id="navbar">
+			<header></header>
+		</nav>
+		<main id="main-doc">
+			<section id="" class="main-section">
+				<header></header>
+			</section>
+				<header></header>
+			<section id="" class="main-section">
+				<header></header>
+			</section>
+				<header></header>
+			<section id="" class="main-section">
+				<header></header>
+			</section>
+				<header></header>
+			<section id="" class="main-section">
+				<header></header>
+			</section>
+			<section id="" class="main-section">
+				<header></header>
+			</section>
+		</main>
+		<footer>
+		
+		</footer>
+	</body>
+</html>
